@@ -1,0 +1,3 @@
+[console_scripts]
+vthunder = python_vthunderclient.cmd.vthunder:main
+
